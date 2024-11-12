@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_30550_wish_list_wish_item">x_30550_wish_list_wish_item</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>WIS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-12 15:12:03</sys_created_on>
+        <sys_id>c6b3ce46c379d6102d491a2ed4013175</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WIS</sys_name>
+        <sys_package display_value="Wish List" source="x_30550_wish_list">641346c2c379d6102d491a2ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">641346c2c379d6102d491a2ed40131ca</sys_scope>
+        <sys_update_name>sys_number_c6b3ce46c379d6102d491a2ed4013175</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-12 15:12:03</sys_updated_on>
+    </sys_number>
+</record_update>
